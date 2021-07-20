@@ -1,4 +1,5 @@
 # Car-EMI-Calculator 
+Create an AIDL service that calculates Car Lone EMI. The formula to calculate EMI is
 # E = P * (r(1+r)n)/((1+r)n-1)
     where,
     E = The EMI payable on the car loan amount 
