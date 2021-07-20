@@ -1,6 +1,6 @@
 # Car-EMI-Calculator 
 # E = P * (r(1+r)n)/((1+r)n-1)
-    where
+    where,
     E = The EMI payable on the car loan amount 
     P = The Car loan Principal Amount
     r = The interest rate value computed on a monthly basis 
